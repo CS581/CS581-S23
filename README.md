@@ -39,11 +39,10 @@ CS 480
   * Supervised learning
   * Naive Bayes
   * Logistic regression
-  * Support vector machines
   * Deep learning
     * Convolutional neural networks, recurrent neural networks
   * Reinforcement learning
-    * Passive reinforcement learning, active reinforcement learning, temporal-difference learning, policy search
+    * Temporal-difference learning, Q-learning
 * AI Safety and Ethics
   * AI safety
   * Privacy
@@ -65,7 +64,7 @@ CS 480
 
 ## Textbook
 
-No textbook is required. You might find Artificial Intelligence: A Modern Approach (http://aima.cs.berkeley.edu/) to be useful for this course.
+Textbook is not required. You might find Artificial Intelligence: A Modern Approach (http://aima.cs.berkeley.edu/) to be useful for this course.
 
 
 ## Instructor
