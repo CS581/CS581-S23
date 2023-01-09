@@ -71,11 +71,11 @@ Textbook is not required. You might find Artificial Intelligence: A Modern Appro
 
 Mustafa Bilgic
 
-Office hours: 11:30am-12pm on Tuesdays/Thursdays @ Stuart Building, Room 217C
+Office hours: see Blackboard
 
 ## Teaching Assistant
 
-TBD
+Ruo Yang: see Blackboard
 
 ## Assignments
 Assingments will be a mix of written and programming assignments. Some of the assignments last year included
